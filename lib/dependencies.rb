@@ -1,0 +1,7 @@
+require_relative "config/database"
+require_relative "config/constants"
+require_relative "price_calculator_base"
+require_relative "model/item"
+require_relative "model/sale_price"
+require_relative "database_value"
+require "terminal-table"
